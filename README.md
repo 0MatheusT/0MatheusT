@@ -1,17 +1,16 @@
-# Hello, I'm Matheus and here I'll tell u a little about me.
+# Hello, I'm Matheus and here I'll tell you a little about me.
 
-I'm graduated on Computer Science to the Federal University of Alagoas (UFAL). :mortar_board:
+I'm graduated on Computer Science at the Federal University of Alagoas (UFAL). :mortar_board:
 
 Actually I work as a IT Analist and I'm learning about development. :computer:
 
-I'm looking for change my area of actuation. *I wanna be a **Dev***. Yes, it is. {__FrontEnd and BackEnd__}
+I'm lookin forword to change my área of work. *I wanna be a **Dev***. Yes, it is. {__FrontEnd and BackEnd__}
 
+I'm working hard for this, believe me! Every day I'm studying harder and more to improve my skills. :books: :rocket:
 
-I'm working hard for this, believe! Every day I'm studying and improving my skills. :books: :rocket:
+Check out some of my projects here on Github.  :smile:
 
-See some of my projects here on Github. :smile:
-
-I have a good knowledge in **HTML**, **CSS**, **JavaScript**.
+I have a skilled knowledge in **HTML**, **CSS**, **JavaScript**.
 
 I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 
