@@ -7,7 +7,7 @@ Actually I work as a IT Analist and I'm learning about development. :computer:
 I'm looking for change my area of actuation. *I wanna be a **Dev***. Yes, it is. {__FrontEnd and BackEnd__}
 
 
-I'm working hard to this, believe! Every day I'm studying and improving my skills. :books: :rocket:
+I'm working hard for this, believe! Every day I'm studying and improving my skills. :books: :rocket:
 
 See some of my projects here on Github. :smile:
 
