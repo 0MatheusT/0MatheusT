@@ -4,7 +4,7 @@ I'm graduated on Computer Science to the Federal University of Alagoas (UFAL). :
 
 Actually I work as a IT Analist and I'm learning about development. :computer:
 
-I'm looking for change my area of actuation. *I wanna be a **Dev***. Yes, is it. {__FrontEnd and BackEnd__}
+I'm looking for change my area of actuation. *I wanna be a **Dev***. Yes, it is. {__FrontEnd and BackEnd__}
 
 
 I'm working hard to this, believe! Every day I'm studying and improving my skills. :books: :rocket:
