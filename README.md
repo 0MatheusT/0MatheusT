@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Matheus and here I'll tell u a little about me.
 
-<!--
-**0MatheusT/0MatheusT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm graduated on Computer Science to the Federal University of Alagoas (UFAL). :mortar_board:
 
-Here are some ideas to get you started:
+Actually I work as a IT Analist and I'm learning about development. :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for change my area of actuation. I want be a Dev. Yes, is it. {__Front and Back__}
+
+
+I'm working hard to this, believe! Every day I'm studying and improving my skills. :books: :rocket:
+
+See some of my projects here on Github and you'll see. :smile:
+
+I have knowledge of **HTML**, **CSS**, **JavaScript**.
+
+I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
+
+
+
+# Contact-me.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/0MatheusT)](https://github.com/0MatheusT)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maatheustavares/)](https://www.linkedin.com/in/maatheustavares/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Puts_Math)](https://twitter.com/Puts_Math)
+
+
