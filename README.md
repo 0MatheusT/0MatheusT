@@ -11,7 +11,7 @@ I'm working hard to this, believe! Every day I'm studying and improving my skill
 
 See some of my projects here on Github and you'll see. :smile:
 
-I have knowledge of **HTML**, **CSS**, **JavaScript**.
+I have a good knowledge in **HTML**, **CSS**, **JavaScript**.
 
 I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 
