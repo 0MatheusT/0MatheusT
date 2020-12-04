@@ -9,7 +9,7 @@ I'm looking for change my area of actuation. *I wanna be a **Dev***. Yes, is it.
 
 I'm working hard to this, believe! Every day I'm studying and improving my skills. :books: :rocket:
 
-See some of my projects here on Github and you'll see. :smile:
+See some of my projects here on Github. :smile:
 
 I have a good knowledge in **HTML**, **CSS**, **JavaScript**.
 
