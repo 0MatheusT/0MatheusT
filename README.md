@@ -24,5 +24,10 @@ I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maatheustavares/)](https://www.linkedin.com/in/maatheustavares/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Puts_Math)](https://twitter.com/Puts_Math)
 
+# 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0MatheusT&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/0MatheusT/github-readme-stats)
+[![0MatheusT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0MatheusT&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/0MatheusT/github-readme-stats)
+
+
 
 
