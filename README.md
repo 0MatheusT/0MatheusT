@@ -1,6 +1,6 @@
 # Hello, I'm Matheus and here I'll tell you a little about me.
 
-I'm graduated on Computer Science at the Federal University of Alagoas (UFAL). :mortar_board:
+I'm graduated on Computer Science at Federal University of Alagoas (UFAL). :mortar_board:
 
 Actually I work as a IT Analist and I'm learning about development. :computer:
 
@@ -18,7 +18,6 @@ I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 
 # Contact-me.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/0MatheusT)](https://github.com/0MatheusT)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maatheustavares/)](https://www.instagram.com/maatheustavares/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maatheustavares/)](https://www.linkedin.com/in/maatheustavares/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Puts_Math)](https://twitter.com/Puts_Math)
