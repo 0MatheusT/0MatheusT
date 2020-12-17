@@ -24,7 +24,7 @@ I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 
 # About time.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0MatheusT&theme=highcontrast&show_icons=true&layout=compact&hide=markdown)](https://github.com/0MatheusT/)
-[![0MatheusT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0MatheusT&theme=highcontrast&show_icons=true&hide=markdown)](https://github.com/0MatheusT/)
+[![0MatheusT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0MatheusT&theme=highcontrast&show_icons=true&hide=markdown&v=2)](https://github.com/0MatheusT/)
 
 
 
