@@ -23,8 +23,8 @@ I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Puts_Math)](https://twitter.com/Puts_Math)
 
 # About time.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0MatheusT&theme=highcontrast&show_icons=true&hide=markdown&layout=compact)](https://github.com/0MatheusT/)
-[![0MatheusT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0MatheusT&theme=highcontrast&show_icons=true&langs_count=5&layout=compact&v=2&hide=git,markdown)](https://github.com/0MatheusT/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0MatheusT&theme=highcontrast&show_icons=true&hide=Markdown&layout=compact)](https://github.com/0MatheusT/)
+[![0MatheusT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0MatheusT&hide=Git,Markdown,GitConfig&theme=highcontrast&show_icons=true&langs_count=5&layout=compact)](https://github.com/0MatheusT/)
 
 
 
