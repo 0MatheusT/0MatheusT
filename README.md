@@ -18,7 +18,7 @@ I know the basics of **Angular**, **Python**, **React** and **Vue.js**.
 
 # Contact-me.
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maatheustavares/)](https://www.instagram.com/maatheustavares/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_matheustvrs/)](https://www.instagram.com/maatheustavares/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maatheustavares/)](https://www.linkedin.com/in/maatheustavares/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Puts_Math)](https://twitter.com/Puts_Math)
 
